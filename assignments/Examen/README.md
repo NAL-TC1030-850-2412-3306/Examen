@@ -1,4 +1,4 @@
-# Ejercicio - Hello World
+# Examen
 
 Este proyecto tiene la estructura básica para cualquier proyecto C++. 
 
